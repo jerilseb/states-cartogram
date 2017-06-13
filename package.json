@@ -1,0 +1,7 @@
+{
+  "name": "cartogram",
+  "version": "1.0.0",
+  "dependencies": {
+    "prettier": "^1.7.4"
+  }
+}
